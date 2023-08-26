@@ -15,7 +15,7 @@ public class App {
         //TODO: call your test case functions one after other here
 
         //AmazonSearch()
-        // AmazonSearch tests = new AmazonSearch();
+        // AmazonPage tests = new AmazonPage();
         // tests.searchAmazon();
         // tests.endTest();
 
